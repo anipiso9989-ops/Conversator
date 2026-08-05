@@ -87,6 +87,8 @@ python app.py
 
 The first run will download the Tiny Aya model from Hugging Face.
 
+Something to keep in mind, though. The SST component has a limit of 5 seconds, meaning it only listens to you for 5 seconds. To change this, go into the sst.py file, and change it to whatever you want, so the model will listen to you for longer.
+
 ---
 
 ## Architecture
