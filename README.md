@@ -129,7 +129,7 @@ Speaker
 
 ## To Do List
 
-[] Build web UI for better user experience.
+[]Build web UI for better user experience.
 
 ## License
 
